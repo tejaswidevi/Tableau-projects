@@ -10,7 +10,8 @@ Learnt Data Visualization and Data Analytics with Tableau by solving  Realistic 
 Covid -19 Data analysis in whole world and we will get know in which country we have more number of cases and also if we want analyze for specific continent it is possible and also it will be helpfull to government to predict number of increase in cases and which region need more medical facilities .
 
 #  Dataset
-
+In this Data set we have conformed cases and Death Cases in conformed casesand death cases we have region,country,state,date 
+# Scree
  
  # View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
  

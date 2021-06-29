@@ -1,32 +1,42 @@
 # Tableau-project
+
+This repository contains the analysis and visualizations I have created in Tableau.
+
 Learnt Data Visualization and Data Analytics with Tableau by solving  Realistic Analytics Project.
 
- covid -19 data analysis
+  # covid -19 data analysis
+#  About
+
+Covid -19 Data analysis in whole world and we will get know in which country we have more number of cases and also if we want analyze for specific continent it is possible and also it will be helpfull to government to predict number of increase in cases and which region need more medical facilities .
+
+#  Dataset
+
  
- View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
+ # View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
  
  
  https://public.tableau.com/profile/penmatsa.tejaswidevi#!/?newProfile=&activeTab=0
 
-What I Learnt in Tableau :
-To Create  interactive dashboards and publish it online to share
+# # What I Learnt in Tableau :
 
-Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
+ * To Create  interactive dashboards and publish it online to share
 
-To Create a variety of charts including bar charts, line charts, donut charts, maps, tables and dual axis charts.
+* Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
 
-To Create calculated fields including developing IF Statements.
+* To Create a variety of charts including bar charts, line charts, donut charts, maps, tables and dual axis charts.
 
-To Create sets, hierarchies and groups.
+* To Create calculated fields including developing IF Statements.
 
-Understood how joins work.
+* To Create sets, hierarchies and groups.
 
-Understood Level Of Detail calculations.
+* Understood how joins work.
 
-To Create Parameters
+* Understood Level Of Detail calculations.
 
-Understood how to make use of the analytics pane including using trend lines
+* To Create Parameters
 
-Understood how to use dashboard actions and create interactive dashboards.
+* Understood how to make use of the analytics pane including using trend lines
 
-Learnt creating a dashboard which updates daily via google sheets.
+* Understood how to use dashboard actions and create interactive dashboards.
+
+* Learnt creating a dashboard which updates daily via google sheets.

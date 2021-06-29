@@ -11,8 +11,11 @@ Covid -19 Data analysis in whole world and we will get know in which country we 
 
 #  Dataset
 In this Data set we have conformed cases and Death Cases in conformed casesand death cases we have region,country,state,date 
-https://github.com/tejaswidevi/Tableau-projects/blob/main/Dashboard%201.png?raw=true
- 
+https://docs.google.com/spreadsheets/d/1wt3I4--yBMrcQfR_VKAmAvEnW2dyF6h9VE_EXtNEFs4/edit#gid=1094682437
+
+# Screenshot
+ ![Screenshot (108)](https://user-images.githubusercontent.com/65757339/123761475-7bb99a80-d8df-11eb-9d54-19facc1bd7a6.png)
+
  # View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
  
  
@@ -41,3 +44,9 @@ https://github.com/tejaswidevi/Tableau-projects/blob/main/Dashboard%201.png?raw=
 * Understood how to use dashboard actions and create interactive dashboards.
 
 * Learnt creating a dashboard which updates daily via google sheets.
+
+# References
+  Udacity Tableau Course.
+ Tableau Tutorials.
+A lot of googling to figure out how to do stuff.
+

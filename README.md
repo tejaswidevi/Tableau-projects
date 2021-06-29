@@ -11,7 +11,7 @@ Covid -19 Data analysis in whole world and we will get know in which country we 
 
 #  Dataset
 In this Data set we have conformed cases and Death Cases in conformed casesand death cases we have region,country,state,date 
-# Scree
+https://github.com/tejaswidevi/Tableau-projects/blob/main/Dashboard%201.png?raw=true
  
  # View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
  
